@@ -1,6 +1,9 @@
 
 label{
 	display: block;
+	cursor: pointer;
+	font-family: sans-serif;
+	padding-bottom: 8px;
 }
 
 form ul{
@@ -9,4 +12,8 @@ form ul{
 }
 form	li{
 	 margin-bottom: 20px;
+}
+textarea{
+	width:400px;
+	height:300px;
 }
